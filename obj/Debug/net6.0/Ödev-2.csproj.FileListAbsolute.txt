@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\bin\Debug\net6.0\Ödev-2.exe
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\bin\Debug\net6.0\Ödev-2.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\bin\Debug\net6.0\Ödev-2.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\bin\Debug\net6.0\Ödev-2.dll
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\bin\Debug\net6.0\Ödev-2.pdb
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.dll
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\refint\Ödev-2.dll
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.pdb
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\Ödev-2.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Ödev-2\obj\Debug\net6.0\ref\Ödev-2.dll
